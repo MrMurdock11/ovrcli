@@ -1,0 +1,10 @@
+# Folders
+dist/
+public/
+lib/
+bin/
+node_modules/
+coverage/
+
+# Files
+package-lock.json
